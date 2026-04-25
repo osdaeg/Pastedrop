@@ -2,11 +2,6 @@
 
 App Android para [paste.sh](https://github.com/osdaeg/paste.sh), un pastebin autoalojado. Capturá snippets desde cualquier app y subílos a tu servidor, con soporte offline completo.
 
-<p align="center">
-  <img src="screenshots/lista.png" width="45%" />
-  <img src="screenshots/nuevo-contenido.png" width="45%" />
-</p>
-
 ## Características
 
 - **Offline-first**: guardá snippets localmente cuando el servidor no está disponible y se sincronizan automáticamente al volver la conexión
@@ -17,13 +12,11 @@ App Android para [paste.sh](https://github.com/osdaeg/paste.sh), un pastebin aut
 
 ## Capturas
 
-| Lista | Nuevo snippet |
-|-------|---------------|
-| ![lista vacía](screenshots/lista-vacia.png) | ![nuevo](screenshots/nuevo.png) |
-
-| Formulario completo | Configuración |
-|--------------------|---------------|
-| ![formulario](screenshots/nuevo-contenido.png) | ![config](screenshots/config.png) |
+![lista vacía](screenshots/mainempty.png)
+![nuevo](screenshots/mainsnippet.png)
+![formulario](screenshots/new.png)
+![config](screenshots/newpython.png)
+![config](screenshots/config.png)
 
 ## Requisitos
 
