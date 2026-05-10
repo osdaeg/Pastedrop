@@ -1,6 +1,6 @@
 # PasteDrop
 
-App Android para [paste.sh](https://codeberg.org/osdaeg/paste.sh), un pastebin autoalojado. Capturá snippets desde cualquier app y subílos a tu servidor, con soporte offline completo.
+App Android para [paste.sh](https://github.com/osdaeg/paste.sh), un pastebin autoalojado. Capturá snippets desde cualquier app y subílos a tu servidor, con soporte offline completo.
 
 ## Características
 
@@ -21,7 +21,7 @@ App Android para [paste.sh](https://codeberg.org/osdaeg/paste.sh), un pastebin a
 ## Requisitos
 
 - Android 8.0 (API 26) o superior
-- Servidor [paste.sh](https://codeberg.org/osdaeg/paste.sh) en la red local
+- Servidor [paste.sh](https://github.com/osdaeg/paste.sh) en la red local
 
 ## Configuración
 
